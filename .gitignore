@@ -1,0 +1,9 @@
+data/accounts.json
+data/backups/
+data/mafiles/
+*.maFile
+*.log
+.env
+.venv/
+__pycache__/
+*.pyc
